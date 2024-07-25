@@ -2,13 +2,11 @@
 
 <h2 align="center">0. Bhagwat Gita App Recording </h2>
 
-```
 <h1 align="left"></h1>
 <div align="center">
- <video src="" type="video/mp4"> 
+ <video src="https://github.com/user-attachments/assets/17e64b8a-a386-41df-a363-89119f06687b" type="video/mp4"> 
 </video>
 </div>
-```
 
 <h1 align="left"></h1>
 <h2 align="center">1. Splash Screen </h2>
