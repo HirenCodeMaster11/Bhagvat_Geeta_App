@@ -1,16 +1,22 @@
 # bhagvat_geeta_app
 
-A new Flutter project.
+<h2 align="center">0. Quote App Recording </h2>
 
-## Getting Started
+```
+<h1 align="left"></h1>
+<div align="center">
+ <video src="" type="video/mp4"> 
+</video>
+</div>
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align="center">1. Splash Screen </h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/640060ec-bd8a-4416-993d-ac7eab0bf937" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/Bhagvat_Geeta_App/blob/master/lib/Screens/Splash%20Screen/Splash%20Screen.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
