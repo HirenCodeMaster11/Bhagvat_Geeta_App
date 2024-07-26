@@ -37,3 +37,8 @@
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/Bhagvat_Geeta_App/blob/master/lib/Screens/Detail%20Screen/View/detail%20screen.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
+<br>
+
+## Description :
+
+```Experience the timeless wisdom of the Bhagavad Gita with our feature-rich Flutter app. Save your favorite verses to your gallery, share insightful passages with friends, and easily copy text to your clipboard. Enjoy a sleek splash screen and user-friendly interface for seamless navigation. Dive into the teachings of the Gita with accurate and beautifully formatted text. Download now for a journey of self-discovery and enlightenment.```
